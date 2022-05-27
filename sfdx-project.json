@@ -5,8 +5,8 @@
       "default": true
     }
   ],
-  "name": "Salesforce-Org-Development",
+  "name": "Salesforce-Ben-Project",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "52.0"
+  "sourceApiVersion": "54.0"
 }
