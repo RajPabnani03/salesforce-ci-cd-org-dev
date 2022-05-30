@@ -12,7 +12,6 @@ public with sharing class ForgotPasswordController {
   		vfpage.setRedirect(true);
   		
   		if (success) {  	
-			  System.System.debug('This Worked !');	
   			return vfpage;
   		}
   		return null;
