@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "Salesforce-Ben-Project",
+  "name": "PP",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "54.0"
